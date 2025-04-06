@@ -3,7 +3,7 @@ package leetcode;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Scanner;
-
+//https://leetcode.com/problems/rank-transform-of-an-array/description/?envType=daily-question&envId=2024-10-02
 public class RankTransformOfArray {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
